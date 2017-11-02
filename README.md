@@ -1,7 +1,7 @@
 # GovAPI-Doc
 Documentação oficial da GovAPI
 
-* [Home](https://github.com/BRAConsultoria/GovernancaAPI-v2-Doc/wiki)
+* [Home](https://github.com/BRAConsultoria/GovAPI-Doc/wiki)
 * Lotações
   * [Obtendo lotações](https://github.com/BRAConsultoria/GovAPI-Doc/wiki/Lota%C3%A7%C3%B5es#obtendo-as-lota%C3%A7%C3%B5es)
   * [Obtendo uma lotação](https://github.com/BRAConsultoria/GovAPI-Doc/wiki/Lota%C3%A7%C3%B5es#obtendo-uma-lota%C3%A7%C3%A3o)
