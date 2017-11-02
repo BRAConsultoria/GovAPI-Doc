@@ -1,2 +1,14 @@
-# GovernancaAPI-v2-Doc
-Documentação oficial da GovernancaAPI
+# GovAPI-Doc
+Documentação oficial da GovAPI
+
+* [Home](https://github.com/BRAConsultoria/GovernancaAPI-v2-Doc/wiki)
+* Lotações
+  * [Obtendo lotações](https://github.com/BRAConsultoria/GovAPI-Doc/wiki/Lota%C3%A7%C3%B5es#obtendo-as-lota%C3%A7%C3%B5es)
+  * [Obtendo uma lotação](https://github.com/BRAConsultoria/GovAPI-Doc/wiki/Lota%C3%A7%C3%B5es#obtendo-uma-lota%C3%A7%C3%A3o)
+* Cargos
+  * [Obtendo cargos](https://github.com/BRAConsultoria/GovAPI-Doc/wiki/Cargos#obtendo-os-cargos)
+  * [Obtendo um cargo](https://github.com/BRAConsultoria/GovAPI-Doc/wiki/Cargos#obtendo-um-cargo)
+  * [Obtendo os cargos vinculados a uma lotação](https://github.com/BRAConsultoria/GovAPI-Doc/wiki/Cargos#obtendo-cargos-vinculados-a-uma-lota%C3%A7%C3%A3o)
+* Grupos de cargos
+  * Obtendo grupos de cargos
+  * Obtendo os cargos vinculados a um grupo
